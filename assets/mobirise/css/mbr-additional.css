@@ -956,7 +956,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-s5dUGxKnTx button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1032,7 +1032,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-s5dUGxKnTx .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.5rem);
   }
 }
 .cid-s5dUGxKnTx .collapsed button.navbar-toggler {
@@ -1537,7 +1537,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-s5dUGxKnTx button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1613,7 +1613,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-s5dUGxKnTx .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.5rem);
   }
 }
 .cid-s5dUGxKnTx .collapsed button.navbar-toggler {
@@ -2102,7 +2102,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-s5dUGxKnTx button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2178,7 +2178,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-s5dUGxKnTx .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.5rem);
   }
 }
 .cid-s5dUGxKnTx .collapsed button.navbar-toggler {
@@ -2694,7 +2694,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-s5dUGxKnTx button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2770,7 +2770,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-s5dUGxKnTx .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.5rem);
   }
 }
 .cid-s5dUGxKnTx .collapsed button.navbar-toggler {
@@ -3094,7 +3094,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-s5dUGxKnTx button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3170,7 +3170,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-s5dUGxKnTx .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.5rem);
   }
 }
 .cid-s5dUGxKnTx .collapsed button.navbar-toggler {
